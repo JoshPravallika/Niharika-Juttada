@@ -1,0 +1,45 @@
+
+body{
+    padding: 40px;
+    background-image: url("./images/key-click-typing-1.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#name{
+    color: #041a1a;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Tangerine', serif;
+    margin: 0% 35%;
+    background-color: #8dc4b980;
+    border-radius: 40%;
+}
+#hello{
+    font-family: cursive;
+}
+.my-img{
+    float: right;
+    height:250px;
+    width:250px;
+    border-radius: 50%;
+    border: 2px dotted #211d21;
+    margin-left: 5%;
+}
+.my-desc{
+    font-size: 25px;
+    font-family: cursive;
+    margin-right: 60px;
+    padding: 10px;
+
+    background-color: antiquewhite;
+}
+hr{
+    border: 5px dotted rgb(67, 100, 104);
+    border-bottom: 0;
+    width: 3%;
+    margin-left: 500px;
+}
+.aa{
+    color: white;
+    text-decoration: none;
+}
